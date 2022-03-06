@@ -13,7 +13,8 @@ as of recent times.
 
 
 ## All Featured Projects:
-
+Below I have listed some of the projects I have worked on in my own personal time and as part of college based projects.
+Some of these are still currently in development while others have been completed.
 
 #### TempoVR:
 
@@ -38,5 +39,13 @@ as of recent times.
 
 #### IADT 360 Photo Guide:
 
-- Created a recommender system that was provided a large list of data taken from the steam store.
-  This was then parsed through to create recommendations to the user of simular games to that users interest.
+- Created an application with the intention to act as a fill in for college tours when covid was at its peak and in person tours where not possible.
+- Using High-res 360 photographs of popular area's in the college, these where stiched together using A-frame and then arranged together with a navigation UI to allow users to view and traverse the college campus completely remotely.
+- Project was created as a group with each member of the group fullfilling a different role.
+
+#### Android MMA Companion App:
+
+- Created an application to allow users to search and view information related to MMA fighters, specifically focusing in on UFC fighters.
+- Application was developed using Android studio and was developed with all modern Android devices in mind.
+- This was completed as part of a third year project.
+- The final version of the application was connected to a live API that contained accurate and changing data making the application a very usefull tool for live statistics on fighters.
